@@ -10,4 +10,9 @@ export default defineConfig({
       '@': '/src', // Add alias for '@' if needed
     },
   },
+  build: {
+    rollupOptions: {
+      external: ['react-responsive-carousel'],
+    },
+  }
 });
