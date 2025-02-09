@@ -24,7 +24,7 @@ import ARDetection from './components/AR/ARDetection'
 import GolcondaFortStory from './components/Stories/GolcondaFortStory'
 import CharminarStory from './components/Stories/Charminar'
 import MahaKumbh from './components/Stories/MahaKumbh'
-import StoryDashboard from './components/Stories/StoryDashBoard'
+import StoryDashboard from './components/Stories/StoryDashboard'
 import Cleanliness from './components/Stories/Cleanliness'
 import GoogleTranslate from './components/GoogleTranslate';
 import CollapsibleReadAloudButton from './components/ReadAloudButton'
