@@ -9,6 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "engines": {
+  "node": "18.x",
+  "npm": "8.x"
+},
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@ljharb/tsconfig": "^0.2.3",
