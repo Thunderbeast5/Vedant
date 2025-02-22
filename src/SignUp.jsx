@@ -172,7 +172,7 @@ const SignUp = () => {
 
     try {
       const res = await axios.post(
-        `http://localhost:3000/api/auth/signup`,
+        `https://indicbackend.onrender.com/api/auth/signup`,
         userData,
         {
           withCredentials: true,
